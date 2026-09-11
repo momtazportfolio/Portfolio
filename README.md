@@ -1,18 +1,18 @@
 <div align="center">
   
-# 🚀 MD FAYSAL HOSSAIN
+# 🚀 MOMTAZ AKTER
   
-### Certified MERN Stack Developer | Web Designer & Developer | Trainer | SEO Expert
+### Frontend Developer | Web Designer | E-commerce & SEO Specialist | NSDA Certified Professional
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-ff7a00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://faysalbyte.github.io/portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faysalbyte)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faysalbyte)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/faysalbyte)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@md.faysal.hossain)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-ff7a00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/momtazportfolio)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/momtazportfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/momtazportfolio)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/momtazportfolio)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/momtazportfolio)
 
 ---
 
-<img src="https://avatars.githubusercontent.com/u/229717438?v=4" alt="MD Faysal Hossain" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 4px solid #fbb9b6; box-shadow: 0 0 30px rgba(251, 185, 182, 0.3);">
+<img src="https://avatars.githubusercontent.com/u/322732347?v=4" alt="Momtaz Akter" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 4px solid #fbb9b6; box-shadow: 0 0 30px rgba(251, 185, 182, 0.3);">
 
 </div>
 
@@ -20,22 +20,23 @@
 
 ## 📋 About Me
 
-Hello! I'm **MD Faysal Hossain**, a passionate and certified **MERN Stack Developer** with expertise in web design, development, and training. I specialize in creating modern, responsive, and user-friendly web applications using cutting-edge technologies.
+Hello! I'm **Momtaz Akter**, a passionate and certified **Frontend Developer** with expertise in web design, responsive development, and SEO. I specialize in creating modern, accessible, and user-friendly web experiences using cutting-edge technologies.
 
 ### 🎯 What I Do
 
-- 💻 **Full Stack Development** - MERN Stack (MongoDB, Express.js, React, Node.js)
+- 💻 **Frontend Development** - HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap
 - 🎨 **Web Design** - Modern, responsive, and accessible UI/UX
-- 📱 **Android Development** - Kotlin-based mobile applications
-- 🔍 **SEO & Digital Marketing** - Search engine optimization and marketing strategies
-- 🎓 **Training & Mentoring** - Industry-oriented skills development
+- 📱 **Responsive Design** - Mobile-first, device-friendly interfaces
+- 🔍 **SEO & Digital Marketing** - Search engine optimization and online growth strategies
+- 🛒 **E-commerce Development** - WordPress, Shopify, Wix, and payment gateway integration
+- ✅ **Software Quality Assurance** - Manual and automated testing for web applications
 
 ### 🏆 Certifications
 
-- 🏅 **NSDA Certified** - Web Design & Web Developer for Freelancing (Level 3 & 5)
-- 🏅 **NSDA Certified** - Android App Development with Kotlin (Level 4)
-- 🏅 **NSDA Certified** - Digital Marketing for Freelancing (SEO) (Level 3 & 4)
-- 🏅 **NSDA Certified** - Software Quality Assurance (Level 3)
+- 🏅 **NSDA Certified** - Web Designer & Developer
+- 🏅 **Certified** - Frontend Development (HTML, CSS, JavaScript, React)
+- 🏅 **Certified** - Responsive Web Design
+- 🏅 **Certified** - SEO & Digital Marketing
 
 ---
 
@@ -53,13 +54,13 @@ Hello! I'm **MD Faysal Hossain**, a passionate and certified **MERN Stack Develo
 
 </div>
 
-### Backend Development
+### Design & UI/UX
 <div align="center">
   
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive-Design-596bff?style=for-the-badge&logo=google-chrome&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI/UX-Design-22C55E?style=for-the-badge&logo=adobexd&logoColor=white)
+![Accessibility](https://img.shields.io/badge/Accessibility-WCAG-0A66C2?style=for-the-badge&logo=w3c&logoColor=white)
 
 </div>
 
@@ -107,9 +108,7 @@ Hello! I'm **MD Faysal Hossain**, a passionate and certified **MERN Stack Develo
 
 <div align="center">
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=md-faysal-hossain-bdd&theme=radical" alt="GitHub Streak" width="48%">
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=momtazportfolio&theme=radical" alt="GitHub Streak" width="48%">
 
 </div>
 
@@ -145,12 +144,12 @@ Hello! I'm **MD Faysal Hossain**, a passionate and certified **MERN Stack Develo
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View-ff7a00?style=for-the-badge)](https://faysalbyte.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md.faysal.hossain.moti.bddh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faysalbyte)
-[![Twitter](https://img.shields.io/badge/🐦_Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/faysalbyte)
-[![YouTube](https://img.shields.io/badge/🎬_YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@md.faysal.hossain)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faysalbyte)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View-ff7a00?style=for-the-badge)](https://github.com/momtazportfolio)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@momtazakter.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/momtazportfolio)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/momtazportfolio)
+[![YouTube](https://img.shields.io/badge/🎬_YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/momtazportfolio)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/momtazportfolio)
 
 </div>
 
@@ -166,7 +165,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### ⭐ If you find this portfolio useful, please give it a star!
 
-**Made with ❤️ by [MD FAYSAL HOSSAIN](https://github.com/faysalbyte)**
+**Made with ❤️ by [MOMTAZ AKTER](https://github.com/momtazportfolio)**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
